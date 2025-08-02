@@ -35,6 +35,9 @@ Get AI-generated tips immediately.
 # Quick on the go Starting Questions
 <img width="647" height="197" alt="image" src="https://github.com/user-attachments/assets/12e4131f-5107-40eb-ad16-4f199bedb957" />
 
+# AI response to a legitimate UPI Question
+<img width="704" height="533" alt="image" src="https://github.com/user-attachments/assets/aa0bee78-4868-4a7f-8d15-9e389a3d534f" />
+
 # Featured Tools for Information Retrieval (With Explaination)
 <img width="445" height="282" alt="image" src="https://github.com/user-attachments/assets/89542d8b-7139-496c-a881-bf5f299b1304" />
 
