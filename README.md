@@ -1,15 +1,21 @@
 # IBM-Cloud-Digital-Financial-Literacy-AI
 
 ## Overview
-An AI Agent for Digital Financial Literacy, powered by RAG (Retrieval-Augmented  Generation), helps users understand and navigate essential financial tools and practices. 
-The Digital Financial Literacy AI is deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and foundation models.
-This Ai is layered over IBM Granite.
+
+*An AI Agent for Digital Financial Literacy, powered by RAG (Retrieval-Augmented  Generation), helps users understand and navigate essential financial tools and practices.*
+
+*The Digital Financial Literacy AI is deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and foundation models.*
+
+*This Ai is layered over IBM Granite.*
 
 ## Features
-1. Friendly Guidance – Chat-based guidance for understanding Financial fraud, usage of UPI and understanding Finance. 
-2. Free for All to Use – Runs entirely on IBM Cloud’s Lite plan, so there’s no cost involved.
-3. Design – Crafted with the intent to keep the AI's responses clear and helpful.
-4. Easy Access – Can be added to websites, used through an API, or launched directly from IBM’s Prompt Lab.
+*1. Friendly Guidance – Chat-based guidance for understanding Financial fraud, usage of UPI and understanding Finance.*
+
+*2. Free for All to Use – Runs entirely on IBM Cloud’s Lite plan, so there’s no cost involved.*
+
+*3. Design – Crafted with the intent to keep the AI's responses clear and helpful.*
+
+*4. Easy Access – Can be added to websites, used through an API, or launched directly from IBM’s Prompt Lab.*
 
 ## Usage
 You can interact with the AI via:
@@ -69,11 +75,11 @@ Get AI-generated tips immediately.
 
 ## Should do:
 
-Ask about budgeting, saving, investing, digital payments, financial planning and fraud avoidance.
+*Ask about budgeting, saving, investing, digital payments, financial planning and fraud avoidance.*
 
-Phrase questions clearly for best results.
+*Phrase questions clearly for best results.*
 
-Use the Preview or Webchat interface for a smoother experience.
+*Use the Preview or Webchat interface for a smoother experience.*
 
 
 ## Shouldn't do:
