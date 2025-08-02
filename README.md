@@ -99,7 +99,7 @@
 *Expect it to remember past chats unless extended memory is enabled.*
 
 # Acknowledgements
-*Developed during the IBM SkillsBuild Academic Hackathon, this project is powered by IBM Cloud’s watsonx.ai Studio and Prompt Lab.*
+*Developed during the IBM Internship from AICTE with SkillsBuild. This project is powered by IBM Cloud’s watsonx.ai Studio and Prompt Lab.*
 
 **The required IBM Cloud Services Used are:-**
 
