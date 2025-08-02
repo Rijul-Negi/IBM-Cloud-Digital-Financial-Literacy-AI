@@ -69,10 +69,16 @@ Expect it to remember past chats unless extended memory is enabled.
 # Acknowledgements
 Developed during the IBM SkillsBuild Academic Hackathon, this project is powered by IBM Cloud’s watsonx.ai Studio and Prompt Lab.
 
-The required IBM Cloud Services Used
+The required IBM Cloud Services Used are:-
+
 . Watsonx.ai Studio
+
 . IBM Granite Model
+
 . Watsonx Vector Index
+
 . IBM Cloud Lite Account
+
 . IBM Cloud IAM
+
 . IBM Cloud Object Storage
