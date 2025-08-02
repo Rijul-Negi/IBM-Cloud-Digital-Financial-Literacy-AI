@@ -18,16 +18,24 @@
 *4. Easy Access – Can be added to websites, used through an API, or launched directly from IBM’s Prompt Lab.*
 
 ## Usage
-You can interact with the AI via:
 
-1. IBM watsonx.ai Prompt Lab (test prompts directly)
-2. Deployed Web Chat Widget (if integrated)
-3. REST Endpoint (send requests via curl/Postman/custom app)
-4. Prompt Lab Testing Open your Finance Literacy asset in IBM watsonx.ai Prompt Lab.
-5. Type a question in the “Test” or “Preview” section.
-Get AI-generated tips immediately.
-6. Web Chat Preview (if deployed) Open the provided web chat or embed-page link in your browser.
-7. Start a conversation
+*You can interact with the AI via:*
+
+*1. IBM watsonx.ai Prompt Lab (test prompts directly)*
+
+*2. Deployed Web Chat Widget (if integrated)*
+
+*3. REST Endpoint (send requests via curl/Postman/custom app)*
+
+*4. Prompt Lab Testing Open your Finance Literacy asset in IBM watsonx.ai Prompt Lab.*
+
+*5. Type a question in the “Test” or “Preview” section.*
+
+*Get AI-generated tips immediately.*
+
+*6. Web Chat Preview (if deployed) Open the provided web chat or embed-page link in your browser.*
+
+*7. Start a conversation*
 
 ## Example Prompts
 *“How do I send money via UPI?"*
