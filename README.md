@@ -8,6 +8,8 @@
 
 *This Ai is layered over IBM Granite.*
 
+*This has been created during the 4 week Internship period*
+
 ## Features
 *1. Friendly Guidance – Chat-based guidance for understanding Financial fraud, usage of UPI and understanding Finance.*
 
